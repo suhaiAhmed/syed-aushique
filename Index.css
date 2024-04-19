@@ -1,0 +1,328 @@
+ * {
+     padding: 0;
+     margin: 0;
+ }
+
+ .top {
+     display: flex;
+     background-color: #f6f0f2;
+     font-family: "Inter", sans-serif;
+ }
+
+ .first-top-img {
+     width: 360px;
+     height: 360px;
+     margin: 46px 98px;
+     border-radius: 242px;
+     box-shadow: 0px 2px 35px 8px black;
+ }
+
+ .btn-img {
+     padding: 0px 14px;
+     font-size: 26px;
+     background: none;
+     border: none;
+ }
+
+ .hire {
+     padding: 10px 73px;
+     font-size: 16px;
+     margin: 22px 0px;
+ }
+
+ .top-btn-img {
+     text-align: center;
+ }
+
+ .hire-top {
+     display: flex;
+     justify-content: center;
+ }
+
+ .right-content {
+     margin-top: 52px;
+ }
+
+ .right-content div span {
+     color: red;
+ }
+
+ .heading-first {
+     font-size: 64px;
+     line-height: 76.8px;
+     font-family: "Inter", sans-serif;
+     font-weight: 400;
+ }
+
+ .para-top {
+     margin-top: 50px;
+ }
+
+ .numbers {
+     display: flex;
+     justify-content: space-between;
+     margin: 152px 0;
+ }
+
+ .numbers div h1 {
+     color: #FF5588;
+     font-size: 48px;
+ }
+
+ .About h3 {
+     line-height: 33.6px;
+     font-weight: 400;
+     color: #FF5588;
+ }
+
+ .about-smaller {
+     font-weight: 400;
+     line-height: 48px;
+     font-size: 40px;
+ }
+
+ .career {
+     margin: 82px 0px;
+     font-weight: 400;
+ }
+
+ .car {
+     color: #FF5588;
+ }
+
+ .edu-heading {
+     font-weight: 400;
+     font-size: 40px;
+     line-height: 48px;
+ }
+
+ .span-car {
+     font-weight: 400;
+     font-size: 16px;
+     line-height: 22.4px;
+ }
+
+ .heading-below {
+     font-size: 24px;
+     font-weight: 400;
+     line-height: 28.8px;
+ }
+
+ .service-span {
+     color: #FF5588;
+     font-weight: 400;
+     font-size: 24px;
+ }
+
+ .expertise {
+     font-size: 40px;
+     font-weight: 400;
+     line-height: 48px;
+ }
+
+ .career-mang {
+     margin: 16px 0px;
+ }
+
+ .service-small-card {
+     display: flex;
+     justify-content: space-between;
+     margin: 30px 0px;
+ }
+
+ .design {
+     border: 2px solid #faa2bd;
+     border-radius: 10px;
+     padding: 12px 16px;
+ }
+
+ .design h3 {
+     font-weight: 400;
+     font-size: 24px;
+     line-height: 28.8px;
+ }
+
+ .below {
+     font-size: 14px;
+     font-weight: 400;
+     line-height: 22.4px;
+ }
+
+ .top-skills {
+     margin: 118px 0px;
+ }
+
+ .skill-span {
+     color: #FF5588;
+ }
+
+ .my-skills {
+     font-weight: 400;
+     line-height: 48px;
+     font-size: 40px;
+ }
+
+ .skill-images {
+     display: flex;
+     justify-content: space-between;
+     margin: 60px 0px;
+ }
+
+ .data-img {
+     width: 80px;
+     height: 60px;
+ }
+
+ .top-portfolio {
+     margin-bottom: 20px;
+ }
+
+ .top-portfolio span {
+     color: #FF5588;
+     font-weight: 400;
+ }
+
+ .hed {
+     font-weight: 400;
+     font-size: 40px;
+     line-height: 48px;
+ }
+
+
+ .port-top-img {
+     width: 782px;
+     height: 400px;
+ }
+
+ .port-img {
+     display: flex;
+     justify-content: space-between;
+ }
+
+ .port-2-img {
+     width: 381px;
+     height: 360px;
+ }
+
+ .test-span {
+     color: #FF5588;
+     font-weight: 400;
+     font-size: 24px;
+     line-height: 33.6px;
+ }
+
+ .test-para {
+     font-size: 40px;
+     line-height: 48px;
+     font-weight: 400;
+     margin-bottom: 30px;
+ }
+
+ .tik-test {
+     margin-top: 159px;
+ }
+
+ /* card */
+ .card-flex {
+     display: flex;
+ }
+
+ .women-img {
+     width: 100px;
+     height: 100px;
+     margin-right: 49px;
+ }
+
+ .Jimmy {
+     font-size: 24px;
+     font-weight: 600;
+     line-height: 39.66px;
+ }
+
+ .Photographer {
+     font-size: 20px;
+     font-weight: 400;
+     line-height: 28px;
+ }
+
+ .top-card {
+     border: 2px solid #1f1115;
+     border-radius: 12px;
+     padding: 29px 47px;
+     margin-bottom: 100px;
+ }
+
+ .para-card {
+     font-size: 25px;
+     line-height: 33.6px;
+ }
+
+ /* brands */
+ .brands-span {
+     line-height: 33.6px;
+     font-size: 24px;
+     font-weight: 400;
+     color: #FF5588;
+ }
+
+ .work {
+     font-size: 40px;
+     line-height: 48px;
+     font-weight: 400;
+ }
+
+ .brands-img {
+     display: flex;
+     justify-content: space-between;
+     margin-top: 35px;
+ }
+
+ .brands-data {
+     width: 127.66px;
+     height: 40px;
+ }
+
+ .toppest-brand {
+     margin: 180px 0px;
+ }
+
+
+ /* The form is started */
+
+ form h2 {
+     color: #FF5588;
+     font-size: 24px;
+     font-weight: 400;
+     margin-bottom: 62px;
+ }
+
+ input {
+     width: 389px;
+     height: 24px;
+     padding: 7px 19px;
+     outline: none;
+     border-top: none;
+     /* border-top-color: currentcolor; */
+     border-left: none;
+     /* border-left-color: currentcolor; */
+     border-right: none;
+     /* border-right-color: currentcolor; */
+     border-color: black;
+     background: #f6f0f2;
+     font-size: 20px;
+ }
+
+ textarea {
+     width: 425px;
+     height: 45px;
+     border-top: none;
+     border-right: none;
+     border-left: none;
+     background: #f6f0f2;
+ }
+
+ .hire-last {
+     padding: 10px 57px;
+     font-size: 18px;
+     font-weight: 328;
+ }
